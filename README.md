@@ -11,4 +11,4 @@
 - Change your password on your own comfort.
 
 
-Note: This is a MongoDB Python project. Feel free to comment any necessary changes.
+Note: This is a MongoDB Python project. Suggestions are wellcome.
